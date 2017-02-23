@@ -14,11 +14,13 @@ $ sudo apt-get install git-all
 
 ## Intalling on Mac
 Step 1: Got to git website to [download](http://git-scm.com/download/mac)
+
 Step 2: Install from the binary installer
 
 
 ## Installing on Windows
 Step 1: Got to git website to [download](http://git-scm.com/download/win)
+
 Step 2: Install from the binary installer
 
 
