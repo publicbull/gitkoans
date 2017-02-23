@@ -1,0 +1,2 @@
+# gitkoans
+internal training course
