@@ -11,5 +11,5 @@ This is Git command line training course for beginners.
 
 
 
-reference:
+Reference:
 * [Git Pro Book](https://git-scm.com/book/en/v2)
